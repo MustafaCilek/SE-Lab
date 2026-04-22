@@ -25,9 +25,6 @@ The HR actor represents company recruiters utilizing the platform to find verifi
 
 
 ------------------------------
-Here is the comprehensive, standalone description for your UML Class Diagram. You can copy and paste this directly into your lab folder document.
-UML Class Diagram Description: "Your Path" Platform
-
 This Class Diagram illustrates the static, structural backend model of the "Your Path" platform. It defines the core data entities, their internal attributes and methods, and the relationships that govern how they interact within the system.
 
 1. Core User Data & Composition
@@ -52,9 +49,6 @@ The JobPosting class represents the HR side of the platform.
 
 
 ------------------------------
-Here is the formal, standalone description for your AI Career Roadmap Generation Activity Diagram, tailored perfectly for your lab folder.
-UML Activity Diagram Description: AI Career Roadmap Generation
-
 This Activity Diagram maps the dynamic workflow and parallel processing required to generate a personalized learning path within the "Your Path" platform. The process is divided across three distinct swimlanes to define the responsibilities of the User, the internal System (AI), and External APIs (such as GitHub or LinkedIn).
 
 1. Initiation Phase
@@ -82,9 +76,6 @@ Once synchronized, the workflow merges back into a single, linear path within th
 
 
 ------------------------------
-Here is the formal, standalone description for your UML State Diagram.
-UML State Diagram Description: Mentorship Task Management
-
 This State Diagram models the dynamic lifecycle and status transitions of a single mentorship task within the "Your Path" platform. It tracks the task from its initial creation by a mentor to its final verified completion by the user.
 
 1. Initiation
@@ -110,9 +101,6 @@ Following mentor approval, the task enters the Verified state. This acts as the 
 
 
 ------------------------------
-Here is the formal, standalone description for your UML Sequence Diagram. This perfectly matches the exact messaging flow you have drawn here!
-UML Sequence Diagram Description: Mentorship Matching
-
 This Sequence Diagram maps the chronological, step-by-step messaging and interactions between the User, the System, and a Mentor to establish a formal mentorship connection within the "Your Path" platform.
 
 1. Discovery Phase
