@@ -1,3 +1,4 @@
+------------------------------
 ATM System
 
 The ATM system outlines the interactions between a Customer and the system's Server.
@@ -6,10 +7,11 @@ The ATM system outlines the interactions between a Customer and the system's Ser
 
     These primary actions require interactions with the Server, which manages the Print Receipt and Validate PIN  functions.
 
-    The Check Balance and Withdraw Cash use cases include a mandatory step to Validate PIN.
+    The transactions can optionally be extended to Print Receipt.
+------------------------------
 
-    The core transactions can optionally be extended to Print Receipt.
 
+------------------------------
 Medical Clinic System
 
 The Medical Clinic System  maps out the processes for patients and clinic staff.
@@ -20,8 +22,11 @@ The Medical Clinic System  maps out the processes for patients and clinic staff.
 
     A Doctor interacts with the system to View Medical History , Update Patient Record , and Write Prescription.
 
-    An external Insurance actor handles the Authorize Insurance use case , which can optionally extend the Update Patient Record process.
+    An external Insurance actor handles the Authorize Insurance use case , which can optionally extend to the Update Patient Record process.
+------------------------------
 
+	
+------------------------------
 Car Insurance
 
 The Car Insurance system  defines how customers and agents manage policies and claims.
@@ -33,3 +38,4 @@ The Car Insurance system  defines how customers and agents manage policies and c
     The payment process can optionally be extended to Apply Discount.
 
     An Insurance Agent handles the Approve Application process , which includes a mandatory step to Validate VIN against a Vehicle Database.
+------------------------------
