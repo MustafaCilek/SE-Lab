@@ -35,7 +35,7 @@ This diagram shows the process of a patient's visit through a medical clinic:
 ------------------------------
 Car Insurance Activity Diagram
 
-This diagram illustrates the step-by-step workflow and parallel responsibilities between a Customer and an Insurance Company during a vehicle claim process:
+This diagram shows the step-by-step workflow and parallel responsibilities between a Customer and an Insurance Company during a vehicle claim process:
 
     Initiation & Verification: The process kicks off when the Customer reports a vehicle accident. The system immediately routes this to the Insurance Company, which verifies that the policy is active and covers the incident.
 

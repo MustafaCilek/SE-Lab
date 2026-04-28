@@ -14,7 +14,7 @@ The ATM system outlines the interactions between a Customer and the system's Ser
 ------------------------------
 Medical Clinic System
 
-The Medical Clinic System  maps out the processes for patients and clinic staff.
+The Medical Clinic System  shows the processes for patients and clinic staff.
 
     A Patient can Schedule Appointment and View Medical History.
 
